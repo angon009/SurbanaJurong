@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RW50VHdbWRD3ZlTHerHy0DAv1MLq7Qwsjqqou3MbvO4bNX13ymD2+AESDA3U3H/hLQNsLp+SvNToCxx/iT31EA==",
+  "success": true,
+  "projectFilePath": "C:\\S3Innovate\\Aquilia\\JSONFileReaderAndExtractor\\JSONFileReaderAndExtractor\\JSONFileReaderAndExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

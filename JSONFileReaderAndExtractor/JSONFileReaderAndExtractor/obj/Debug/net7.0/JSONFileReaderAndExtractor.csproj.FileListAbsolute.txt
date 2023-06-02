@@ -1,0 +1,17 @@
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\bin\Debug\net7.0\JSONFileReaderAndExtractor.exe
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\bin\Debug\net7.0\JSONFileReaderAndExtractor.deps.json
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\bin\Debug\net7.0\JSONFileReaderAndExtractor.runtimeconfig.json
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\bin\Debug\net7.0\JSONFileReaderAndExtractor.dll
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\bin\Debug\net7.0\JSONFileReaderAndExtractor.pdb
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.csproj.AssemblyReference.cache
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.AssemblyInfoInputs.cache
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.AssemblyInfo.cs
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.csproj.CoreCompileInputs.cache
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.csproj.CopyComplete
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.dll
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\refint\JSONFileReaderAndExtractor.dll
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.pdb
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\JSONFileReaderAndExtractor.genruntimeconfig.cache
+C:\S3Innovate\Aquilia\JSONFileReaderAndExtractor\JSONFileReaderAndExtractor\obj\Debug\net7.0\ref\JSONFileReaderAndExtractor.dll
