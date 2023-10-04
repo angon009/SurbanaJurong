@@ -177,11 +177,14 @@ namespace LazyCachePractice
            on the method they decorate.
          * Using caching attributes is convenient because it abstracts the caching logic away from the method 
            implementation. This means you can easily add or modify caching behavior without altering the method's code.
-        */ 
+        */
         [CacheResult(3, ExpirationMode.LazyExpiration)]
         public string GetCachedDataAttribute(int id)
         {
-            return FetchDataByIdFromDatabase(id);
+            return _appCache.GetOrAdd($"GetCachedDat_{id}", () =>
+            {
+                return FetchDataByIdFromDatabase(id);
+            });
         }
         #endregion
 

@@ -353,11 +353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\CachingPractice\\LazyCachePractice\\LazyCachePractice.csproj",
+      "projectUniqueName": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\SurbanaJurong\\CachingPractice\\LazyCachePractice\\LazyCachePractice.csproj",
       "projectName": "LazyCachePractice",
-      "projectPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\CachingPractice\\LazyCachePractice\\LazyCachePractice.csproj",
+      "projectPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\SurbanaJurong\\CachingPractice\\LazyCachePractice\\LazyCachePractice.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\CachingPractice\\LazyCachePractice\\obj\\",
+      "outputPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\SurbanaJurong\\CachingPractice\\LazyCachePractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -448,11 +448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\CachingPractice\\CachingPractice\\CachingPractice.csproj",
+      "projectUniqueName": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\SurbanaJurong\\CachingPractice\\CachingPractice\\CachingPractice.csproj",
       "projectName": "CachingPractice",
-      "projectPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\CachingPractice\\CachingPractice\\CachingPractice.csproj",
+      "projectPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\SurbanaJurong\\CachingPractice\\CachingPractice\\CachingPractice.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\CachingPractice\\CachingPractice\\obj\\",
+      "outputPath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\SurbanaJurong\\CachingPractice\\CachingPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
