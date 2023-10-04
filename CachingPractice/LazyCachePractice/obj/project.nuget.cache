@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "1OJXzx2GOJ1Anru7Eh26J2oEwEOiTBsJJRLz9/7o7/bPiLZfiv+eMVPxY4nysfIx/3RGeyv/mMUiIkNbyRvqxw==",
+  "success": true,
+  "projectFilePath": "D:\\SurbanaJurong\\Projects\\Miscellaneous\\CachingPractice\\LazyCachePractice\\LazyCachePractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\lazycache\\2.4.0\\lazycache.2.4.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.1.0\\microsoft.extensions.caching.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.1.0\\microsoft.extensions.caching.memory.2.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\polly\\8.0.0\\polly.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\polly.core\\8.0.0\\polly.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
